@@ -1,4 +1,6 @@
 
+[![Build Status](https://philuk.visualstudio.com/Space-Game-WF/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://philuk.visualstudio.com/Space-Game-WF/_build/latest?definitionId=5&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
